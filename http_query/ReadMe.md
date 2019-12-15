@@ -31,6 +31,6 @@
 }
 ```
 
-2. Data in the **Body** box will be puted into right the HTTP protocol BODY,trictly!
+2. Data in the **Body** box will be puted into right the HTTP protocol BODY, strictly!
 
 3. The Body Box **only** avilibal with **POST** method.
