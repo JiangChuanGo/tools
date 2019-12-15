@@ -2,7 +2,7 @@
 
 1. how it looks like
 
-[img](https://raw.githubusercontent.com/JiangChuanGo/imgbed/master/2019/12/screen_cap.png)
+![img](https://raw.githubusercontent.com/JiangChuanGo/imgbed/master/2019/12/screen_cap.png)
 
 1. clone this repo
   ```bash
