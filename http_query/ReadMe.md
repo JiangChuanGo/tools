@@ -11,6 +11,7 @@
 
 3. pip install requirements.txt
   ```bash
+  cd tools/http_query/
   pip install -r requirements.txt
   ```
 
