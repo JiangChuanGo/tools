@@ -29,7 +29,7 @@
     "Content-length" : "16",
     "Cookies" : ["abc", "123", "456"]
 }
-```.
+```
 
 2. Data in the **Body** box will be puted into right the HTTP protocol BODY,trictly!
 
