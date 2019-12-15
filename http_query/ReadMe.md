@@ -15,7 +15,7 @@
   pip install -r requirements.txt
   ```
 
-4. run the too
+4. run the tool
   ```bash
   python main.py
   ```
