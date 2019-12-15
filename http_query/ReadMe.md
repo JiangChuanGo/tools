@@ -33,4 +33,4 @@
 
 2. Data in the **Body** box will be puted into right the HTTP protocol BODY, strictly!
 
-3. The Body Box **only** avilibal with **POST** method.
+3. The Body Box **only** avilible with **POST** method.
